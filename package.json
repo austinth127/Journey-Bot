@@ -1,0 +1,19 @@
+{
+  "name": "journey-bot",
+  "version": "1.0.0",
+  "description": "A small bot for the CS Journeys discord and GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinth127/Journey-Bot.git"
+  },
+  "author": "Austin Huizinga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinth127/Journey-Bot/issues"
+  },
+  "homepage": "https://github.com/austinth127/Journey-Bot#readme"
+}
