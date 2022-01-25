@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/austinth127/Journey-Bot/issues"
   },
-  "homepage": "https://github.com/austinth127/Journey-Bot#readme"
+  "homepage": "https://github.com/austinth127/Journey-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
