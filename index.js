@@ -1,7 +1,6 @@
 import DiscordJS, { Intents } from "discord.js";
 import { token } from "./config.js";
 import * as fs from "fs";
-import ydtl from "ytdl-core";
 
 // Initialize our client as a DiscordJS client and declare intents
 const client = new DiscordJS.Client({
